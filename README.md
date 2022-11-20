@@ -23,3 +23,5 @@ Write the answer in following space:
 Question 4:
 If there is new data point whose independent value X is 60, please predict its dependent value. 
 Write the answer in following space
+
+![image](https://user-images.githubusercontent.com/86066883/202909703-fa4d9c68-8b02-4936-ac09-56c384714772.png)
