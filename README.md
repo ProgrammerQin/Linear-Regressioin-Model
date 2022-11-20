@@ -1,7 +1,10 @@
 # Linear-Regressioin-Model
-There are 6 sample points as shown in following figure. X stands for independent variable, and Y stands for dependent variable. 
+There are 6 sample points as shown in following figure. 
+X stands for independent variable, and Y stands for dependent variable. 
 It is known that:
-p1 = {12, 21}; p2 = {20, 40}; p3 = {25, 9}; p4 = {36, 18}; p5 = {40, 60}; p6 = {50, 61} 
+p1 = {12, 21}; p2 = {20, 40}; p3 = {25, 9}; 
+p4 = {36, 18}; p5 = {40, 60}; p6 = {50, 61} 
+
 Assume that a linear regression model will be built to fit these data points. 
 
 Question 1:
